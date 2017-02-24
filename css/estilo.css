@@ -8,6 +8,17 @@ a {
     color: #fff !important;
     text-decoration: none;
 }
+.invi{
+  color: #fe3164 !important;
+}
+
+.invi:hover{
+  color: #fe3164 !important;
+}
+
+.invi:focus{
+  color: #fe3164 !important;
+}
  .cd-intro {
   position: relative;
   height: 100vh;
